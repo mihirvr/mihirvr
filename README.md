@@ -105,16 +105,23 @@ I enjoy experimenting with **embedded hardware**, **wireless communication**, an
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Revaskar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mihir-revaskar/)  
-[![GitHub](https://img.shields.io/badge/GitHub-mihirvr-lightgrey?style=for-the-badge&logo=github)](https://github.com/mihirvr)  
-📧 **mihirrevaskar@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mihir-revaskar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mihir%20Revaskar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/mihirvr">
+    <img src="https://img.shields.io/badge/GitHub-mihirvr-lightgrey?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:mihirrevaskar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mihirrevaskar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="120" alt="Tech GIF"><br>
-  <b>Thanks for visiting!</b><br>
-  ⭐ Star some repositories if you liked my work!  
-  <br><br>
+  <b>Thanks for visiting!</b><br> 
+  <br>
   <i>“Curiosity drives creation — every experiment brings me closer to understanding how things connect.”</i>
 </p>
