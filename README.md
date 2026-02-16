@@ -90,17 +90,14 @@ I enjoy experimenting with **embedded hardware**, **wireless communication**, an
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihirvr&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirvr&theme=transparent" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirvr&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 100%;">
+  <img src="https://github-readme-stats-one-alpha.vercel.app/api?username=mihirvr&show_icons=true&theme=noctis_minimus" 
+       alt="GitHub stats" style="height:150px; flex: 1 1 220px; max-width:42%;"/>
+  <img src="https://github-readme-stats-one-alpha.vercel.app/api/top-langs/?username=mihirvr&layout=compact&theme=noctis_minimus" 
+       alt="Top Langs" style="height:150px; flex: 1 1 220px; max-width:42%;"/>
+</div>
 ---
 
 ## 🌐 Connect with Me  
