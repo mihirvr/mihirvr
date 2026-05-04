@@ -83,18 +83,31 @@ I build at the intersection of **hardware and software** — from embedded syste
 ## 📌 Featured Repositories
 
 <table align="center">
-  <tr>
+<tr>
     <td align="center" width="50%">
-      <a href="https://github.com/mihirvr/isl_translator">
-        <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=isl_translator&theme=noctis_minimus" alt="ISL Translator Repo"/>
-      </a>
+        <a href="https://github.com/mihirvr/metricix">
+            <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=metricix&theme=noctis_minimus" alt="Metricix Repo"/>
+        </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/mihirvr/image_to_hex">
-        <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=image_to_hex&theme=noctis_minimus" alt="Image to Hex Repo"/>
-      </a>
+        <a href="https://github.com/mihirvr/SonClarus_ML">
+            <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=SonClarus_ML&theme=noctis_minimus" alt="SonClarus ML Repo"/>
+        </a>
     </td>
-  </tr>
+</tr>
+
+<tr>
+    <td align="center" width="50%">
+        <a href="https://github.com/mihirvr/isl_translator">
+            <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=isl_translator&theme=noctis_minimus" alt="ISL Translator Repo"/>
+        </a>
+    </td>
+    <td align="center" width="50%">
+        <a href="https://github.com/mihirvr/image_to_hex">
+            <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=image_to_hex&theme=noctis_minimus" alt="Image to Hex Repo"/>
+        </a>
+    </td>
+</tr>
 </table>
 
 ---
