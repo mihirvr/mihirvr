@@ -4,7 +4,7 @@
   <h1>Hi there 👋, I'm Mihir Revaskar</h1>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ECE+Student+%7C+AI%2FML+Honors;Backend+%7C+Embedded+%7C+ML;Java+%7C+PostgreSQL+%7C+Python;Learning+by+Building" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ECE+Student+%7C+AI%2FML+Honors;Backend+Engineering+%7C+Distributed+Systems;Java+%2F+Python+%2F+PERN+Stack;Learning+by+Building" alt="Typing Animation">
 </div>
 
 ---
@@ -12,14 +12,14 @@
 ## 🧠 About Me
 🎓 **B.Tech in Electronics & Communication Engineering**
 *Shah & Anchor Kutchhi Engineering College (2023–2027)*
+
 💡 **Honors:** Artificial Intelligence and Machine Learning
 
-I build at the intersection of **hardware and software** — from embedded systems and IoT to backend engineering and machine learning. Currently going deep on **Java and PostgreSQL**, with Spring Boot and React next on the path.
+I build backend systems that deal with real concurrency, exactly-once delivery, and observability. My core strength spans both **Java (Spring Boot)** and **Python (FastAPI, Django)**, with PostgreSQL, Redis, and Docker underneath both — and I can work full-stack on **PERN (PostgreSQL, Express, React, Node.js)**.
 
-- 🔧 Hands-on with embedded systems, real-time IoT, and computer vision projects.
-- ☕ Currently learning **Java** and building backend fundamentals with **PostgreSQL**.
-- 🚀 Next up: **Spring Boot** → REST APIs → **React** → full stack.
-- ⚙️ I believe in learning in public and building to understand.
+- ☕🐍 Backend engineering across **Java/Spring Boot** and **Python/FastAPI**, with PostgreSQL, Redis, and Docker underneath both.
+- 🧵 Built distributed systems tackling concurrency control, distributed locking, and reliable job scheduling.
+- 🟢 Full-stack capable on **PERN** — Node.js/Express APIs with a React frontend.
 
 ---
 
@@ -28,22 +28,35 @@ I build at the intersection of **hardware and software** — from embedded syste
 ### Backend & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=alembic&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### DevOps & Observability
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Embedded & IoT
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+### JavaScript / PERN
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### AI & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -57,30 +70,13 @@ I build at the intersection of **hardware and software** — from embedded syste
 
 ---
 
-## 💼 Experience
-**Internet of Things Intern — [Thumbstack Technologies](https://thumbstack.co/) (Aug 2025 – Oct 2025)**
-- Built real-time IoT solutions integrating ESP32, sensors, and cloud dashboards using REST and MQTT pipelines.
-- Developed firmware and prototypes for connected devices and automation systems.
-- Handled device communication protocols, data pipelines, and remote monitoring infrastructure.
-
----
-
 ## 🧩 Projects
 
-### Personal
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Indian Sign Language Translator** | Real-time gesture recognition via webcam, translates ISL to readable text using MediaPipe and custom ML models. | Python, OpenCV, MediaPipe, TensorFlow |
-| **SonClarus ML** | Audio classification using FFT, spectrograms, and MFCC feature extraction with neural networks. | Python, TensorFlow, Librosa, NumPy |
-| **Image to Hex Converter** | Converts bitmaps to C-style hex arrays for embedded displays and E-Ink drivers. | C, Python, PIL |
-
-### Internship
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **ESP Vending Machine** | Full IoT vending machine with Flask backend, REST API for inventory and transaction logging. | ESP32, C++, Flask, MQTT |
-| **BLE Attendance System** | ESP32 BLE detects mobile UUIDs for attendance tracking with cloud sync and web dashboard. | ESP32, BLE, C++, Firebase |
-| **E-Ink CMS with OTA** | CMS for E-Paper displays with OTA firmware updates and Flask web interface. | ESP32, C++, Flask, REST API |
-| **Ad Manager Linux** | Raspberry Pi app for targeted advertising with CV-based audience detection and PyQt5 GUI. | Python, PyQt5, OpenCV, Linux |
+| **Metricix** | Self-hosted multi-tenant telemetry engine — high-throughput event ingestion with idempotency guarantees, tenant-scoped routing, and soft-delete persistence. | Java, Spring Boot WebFlux, PostgreSQL/R2DBC, Redis, Docker |
+| **Cronas** | Distributed cron/webhook scheduler — polls and dispatches scheduled jobs exactly once across a cluster using distributed locking and retry/dead-letter handling. | Java, Spring Boot, PostgreSQL, Redis, Docker |
+| **SonClarus** | Audio processing engine — worker module for ML inference and real-time audio stream pre/post-processing, low-latency predictions from a TensorFlow model. | Python, FastAPI, TensorFlow, NumPy |
 
 ---
 
@@ -94,21 +90,21 @@ I build at the intersection of **hardware and software** — from embedded syste
         </a>
     </td>
     <td align="center" width="50%">
-        <a href="https://github.com/mihirvr/SonClarus_ML">
-            <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=SonClarus_ML&theme=noctis_minimus" alt="SonClarus ML Repo"/>
+        <a href="https://github.com/mihirvr/cronas">
+            <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=cronas&theme=noctis_minimus" alt="Cronas Repo"/>
         </a>
     </td>
 </tr>
 
 <tr>
     <td align="center" width="50%">
-        <a href="https://github.com/mihirvr/isl_translator">
-            <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=isl_translator&theme=noctis_minimus" alt="ISL Translator Repo"/>
+        <a href="https://github.com/mihirvr/prismo">
+            <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=prismo&theme=noctis_minimus" alt="Prismo Repo"/>
         </a>
     </td>
     <td align="center" width="50%">
-        <a href="https://github.com/mihirvr/image_to_hex">
-            <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=mihirvr&repo=image_to_hex&theme=noctis_minimus" alt="Image to Hex Repo"/>
+        <a href="https://github.com/Shubhtistic/SonClarus">
+            <img src="https://github-readme-stats-one-alpha.vercel.app/api/pin/?username=Shubhtistic&repo=SonClarus&theme=noctis_minimus" alt="SonClarus Repo"/>
         </a>
     </td>
 </tr>
